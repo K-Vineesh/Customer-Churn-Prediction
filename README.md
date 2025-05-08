@@ -1,8 +1,3 @@
-Here’s the full and properly formatted `README.md` content you can **copy-paste directly into your README file**. It uses correct markdown syntax so that GitHub will render headers, code blocks, and tables properly:
-
----
-
-```markdown
 # 📊 Customer Churn Prediction in Telecom
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -118,5 +113,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Paste this into your `README.md` file in VS Code or any markdown editor. GitHub will automatically render it correctly with proper heading sizes and formatting. Let me know if you also want a rendered preview or a PDF version.
+
 ```
