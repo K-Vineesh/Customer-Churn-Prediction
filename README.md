@@ -48,11 +48,12 @@ Edit
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone this repository
-
-git clone https://github.com/k-vineesh/churn-prediction.git
+🚀 Getting Started
+1. Clone this repository
+bash
+Copy
+Edit
+git clone https://github.com/K-Vineesh/Customer-Churn-Prediction.git
 cd churn-prediction
 2. Install dependencies
 bash
@@ -86,7 +87,7 @@ Edit
   organization={IEEE}
 }
 📬 Contact
-For any queries, feel free to contact me via GitHub or at vineeshbijuselvi@gmail.com
+For any queries, feel free to contact me via GitHub or at vineeshbijuselvi@gmail.com.
 
 🧾 License
 This project is licensed under the MIT License.
