@@ -49,7 +49,7 @@ git clone https://github.com/K-Vineesh/Customer-Churn-Prediction.git
 ### 3. Run the Jupyter Notebook
 
 ```bash
-jupyter notebook churn_prediction.ipynb
+jupyter notebook telecom-churn-main.ipynb
 ```
 
 ---
