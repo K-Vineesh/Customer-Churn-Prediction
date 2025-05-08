@@ -52,8 +52,7 @@ Edit
 
 ### 1. Clone this repository
 
-```bash
-git clone https://github.com/<your-username>/churn-prediction.git
+git clone https://github.com/k-vineesh/churn-prediction.git
 cd churn-prediction
 2. Install dependencies
 bash
@@ -87,7 +86,7 @@ Edit
   organization={IEEE}
 }
 📬 Contact
-For any queries, feel free to contact me via GitHub or email.
+For any queries, feel free to contact me via GitHub or at vineeshbijuselvi@gmail.com
 
 🧾 License
 This project is licensed under the MIT License.
