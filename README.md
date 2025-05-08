@@ -1,3 +1,8 @@
+Here’s the full and properly formatted `README.md` content you can **copy-paste directly into your README file**. It uses correct markdown syntax so that GitHub will render headers, code blocks, and tables properly:
+
+---
+
+```markdown
 # 📊 Customer Churn Prediction in Telecom
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -33,52 +38,61 @@ This project explores the prediction of customer churn in the telecom sector usi
 
 ## 🗂️ Project Contents
 
-churn-prediction/
-├── data/ # Sample/preprocessed dataset (not included here)
-├── models/ # Trained model files
-├── src/ # Core training and utility scripts
-├── churn_prediction.ipynb # Jupyter notebook with complete workflow
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-└── LICENSE # MIT License
+```
 
-yaml
-Copy
-Edit
+churn-prediction/
+├── data/                  # Sample/preprocessed dataset (not included here)
+├── models/                # Trained model files
+├── src/                   # Core training and utility scripts
+├── churn\_prediction.ipynb # Jupyter notebook with complete workflow
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
+└── LICENSE                # MIT License
+
+````
 
 ---
 
-🚀 Getting Started
-1. Clone this repository
-bash
-Copy
-Edit
+## 🚀 Getting Started
+
+### 1. Clone this repository
+
+```bash
 git clone https://github.com/K-Vineesh/Customer-Churn-Prediction.git
 cd churn-prediction
-2. Install dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3. Run the Jupyter Notebook
-bash
-Copy
-Edit
-jupyter notebook churn_prediction.ipynb
-📊 Results
-Model	Accuracy	ROC AUC
-Logistic Regression	✓	✓
-Decision Tree	✓	✓
-Random Forest	✓	✓
-HistGradientBoosting	96.14%	99.49%
-Ensemble Model	96.39%	97.88%
+````
 
-📚 Citation
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Jupyter Notebook
+
+```bash
+jupyter notebook churn_prediction.ipynb
+```
+
+---
+
+## 📊 Results
+
+| Model                | Accuracy   | ROC AUC    |
+| -------------------- | ---------- | ---------- |
+| Logistic Regression  | ✓          | ✓          |
+| Decision Tree        | ✓          | ✓          |
+| Random Forest        | ✓          | ✓          |
+| HistGradientBoosting | 96.14%     | **99.49%** |
+| **Ensemble Model**   | **96.39%** | 97.88%     |
+
+---
+
+## 📚 Citation
+
 If you use this code or research in your work, please cite our paper:
 
-bibtex
-Copy
-Edit
+```bibtex
 @inproceedings{vineesh2024churn,
   title={A Novel Approach to Customer Churn Prediction in Telecom},
   author={Vineesh and Senthilselvi, A. and Kanishk, V. and Praveen Raj, A.},
@@ -86,8 +100,23 @@ Edit
   year={2024},
   organization={IEEE}
 }
-📬 Contact
-For any queries, feel free to contact me via GitHub or at vineeshbijuselvi@gmail.com.
+```
 
-🧾 License
-This project is licensed under the MIT License.
+---
+
+## 📬 Contact
+
+For any queries, feel free to contact me via GitHub or at **[vineeshbijuselvi@gmail.com](mailto:vineeshbijuselvi@gmail.com)**
+
+---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+```
+
+---
+
+Paste this into your `README.md` file in VS Code or any markdown editor. GitHub will automatically render it correctly with proper heading sizes and formatting. Let me know if you also want a rendered preview or a PDF version.
+```
