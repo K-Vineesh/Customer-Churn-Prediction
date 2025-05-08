@@ -31,22 +31,7 @@ This project explores the prediction of customer churn in the telecom sector usi
 
 ---
 
-## 🗂️ Project Contents
 
-```
-
-churn-prediction/
-├── data/                  # Sample/preprocessed dataset (not included here)
-├── models/                # Trained model files
-├── src/                   # Core training and utility scripts
-├── churn\_prediction.ipynb # Jupyter notebook with complete workflow
-├── requirements.txt       # Dependencies
-├── README.md              # Project documentation
-└── LICENSE                # MIT License
-
-````
-
----
 
 ## 🚀 Getting Started
 
@@ -54,14 +39,12 @@ churn-prediction/
 
 ```bash
 git clone https://github.com/K-Vineesh/Customer-Churn-Prediction.git
-cd churn-prediction
+
 ````
 
 ### 2. Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
+
 
 ### 3. Run the Jupyter Notebook
 
@@ -109,9 +92,4 @@ For any queries, feel free to contact me via GitHub or at **[vineeshbijuselvi@gm
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
----
-
-
-```
